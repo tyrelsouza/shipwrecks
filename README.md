@@ -1,6 +1,12 @@
+# Mongo Stuff
+
+
 Load Sample Dataset  `sample_shipwrecks`  https://github.com/neelabalan/mongodb-sample-dataset
 
-# py
+
+# servers and such
+
+## py
 
 Do standard venv ritual and pip install
 
@@ -8,9 +14,7 @@ Do standard venv ritual and pip install
 python main.py
 ```
 
-
-
-# js/shipwrecks
+## js/shipwrecks
 
 standard yarn ritual
 
